@@ -1,6 +1,10 @@
-<div align="center">
+<div align="center" stlye="max-height: 200px;">
+
+# Kevin Borrill 🐼
 
 ![Kevin Borrill][logo-url]
+
+## 3 SIDED CUBE
 
 </div>
 
