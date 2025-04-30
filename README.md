@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Kevin Borrill][logo-url]][url]
+[![Kevin Borrill][logo-url]
 
 </div>
 
